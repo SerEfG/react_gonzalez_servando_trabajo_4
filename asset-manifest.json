@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react_gonzalez_servando_trabajo_4/static/css/main.73914cea.css",
+    "main.js": "/react_gonzalez_servando_trabajo_4/static/js/main.45441ef2.js",
+    "static/js/787.a3b7d8fb.chunk.js": "/react_gonzalez_servando_trabajo_4/static/js/787.a3b7d8fb.chunk.js",
+    "static/media/ferreteria.png": "/react_gonzalez_servando_trabajo_4/static/media/ferreteria.86b900dc8a4e4f07334f.png",
+    "index.html": "/react_gonzalez_servando_trabajo_4/index.html",
+    "main.73914cea.css.map": "/react_gonzalez_servando_trabajo_4/static/css/main.73914cea.css.map",
+    "main.45441ef2.js.map": "/react_gonzalez_servando_trabajo_4/static/js/main.45441ef2.js.map",
+    "787.a3b7d8fb.chunk.js.map": "/react_gonzalez_servando_trabajo_4/static/js/787.a3b7d8fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73914cea.css",
+    "static/js/main.45441ef2.js"
+  ]
+}
