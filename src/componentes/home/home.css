@@ -1,0 +1,16 @@
+.menu{
+    /*margin-right: 1px;*/
+    word-spacing: 15px;
+    font-size: 30px;
+    background-color: chocolate;
+}
+.menu-boton{
+    font-size: 25px;
+    border-radius: 100px;
+    background-color: rgb(184, 11, 11);
+}
+.salida{
+    font-size: 25px;
+    border-radius: 100px;
+    background-color: rgb(46, 184, 11);
+}
